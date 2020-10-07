@@ -1,8 +1,6 @@
 import React from "react";
-import Scroll from "react-scroll";
-import { Link } from "react-scroll";
 
-const ScrollLink = Scroll.ScrollLink;
+import { Link } from "react-scroll";
 
 const Sidebar = () => {
   return (
@@ -19,7 +17,7 @@ const Sidebar = () => {
         <h2>Surya Bhattiprolu</h2>
       </div>
       <div className="ui list link">
-        <Link className="item" to="About" smooth={true} duration="5000">
+        <Link className="item" to="About" smooth={true}>
           About
         </Link>
         <Link to="skills" className="item" smooth={true}>

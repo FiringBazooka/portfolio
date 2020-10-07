@@ -2,7 +2,6 @@ import React from "react";
 import Sidebar from "./components/Sidebar";
 import "./styles.css";
 import Resume from "./components/Resume";
-import { Sticky, StickyContainer } from "react-sticky";
 
 const App = () => {
   return (

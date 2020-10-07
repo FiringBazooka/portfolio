@@ -4,6 +4,12 @@ import { Element } from "react-scroll";
 import Projects from "./Projects";
 import Education from "./Education";
 
+function exp() {
+  var msDiff = new Date().getTime() - new Date("August 25, 2014").getTime();
+  var days = msDiff / (1000 * 60 * 60 * 24 * 365);
+  return days.toFixed(2);
+}
+
 const Resume = () => {
   return (
     <div>
@@ -24,7 +30,7 @@ const Resume = () => {
         <div>
           <ul>
             <li>
-              5.5 years of diverse experience in Information Technology with
+              {exp()} years of diverse experience in Information Technology with
               emphasize on Application Development to build and deployment.
             </li>
             <li>
