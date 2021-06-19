@@ -29,3 +29,5 @@ npm install package@version // to install package by package
 npm upgrade
 
 npm upgrade --legacy-peer-deps  // incase you get "err resolve unable to resolve dependency tree"
+
+
