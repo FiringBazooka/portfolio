@@ -25,7 +25,7 @@ const Skills = () => {
             </tr>
             <tr>
               <td>Core</td>
-              <td>Java, JAX-RS, Spring</td>
+              <td>Java, JAX-RS, Spring Boot, Microservices</td>
             </tr>
             <tr>
               <td>Unit Testing</td>
@@ -35,14 +35,14 @@ const Skills = () => {
         </tr>
         <tr>
           <td>Devops</td>
-          <td>Jenkins, Bamboo, GIT, batch scripting</td>
+          <td>Jenkins, Bamboo, GIT, Windows batch scripting</td>
         </tr>
         <tr>
           <td>ORM</td>
           <td>JDBC, Hibernate, Spring data JPA</td>
         </tr>
         <tr>
-          <td>Serves</td>
+          <td>Server</td>
           <td>WAS 8.5.5, Tomcat</td>
         </tr>
         <tr>
@@ -51,7 +51,7 @@ const Skills = () => {
         </tr>
         <tr>
           <td>Domain</td>
-          <td>Internet Banking, Alerts</td>
+          <td>Internet Banking</td>
         </tr>
       </table>
     </Element>

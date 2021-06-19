@@ -64,7 +64,7 @@ const Resume = () => {
               I have experience on Spring basics DSL and Apache camel middleware
               framework.
             </li>
-            <li>Knowledge on Spring boot.</li>
+            <li>Built applications using Spring Boot, Data JPA, microservices and Batch.</li>
             <li>Expert experience on the version control system GIT.</li>
             <li>
               Hands on experience on build and automation tools like Atlassian
@@ -76,8 +76,7 @@ const Resume = () => {
             </li>
             <li>Knowledge to work on Database MSSQL.</li>
             <li>
-              Self learnt React JS with concepts including Redux and Reducers of
-              ES2015.
+              Self learnt React JS.
             </li>
             <li>
               Experience in Software Development Life Cycle – Analysis, Design,
@@ -93,6 +92,9 @@ const Resume = () => {
             </li>
             <li>
               Flexible to work on different kinds of API’s and Technologies.
+            </li>
+            <li>
+              Monitor and troubleshoot application events using Splunk and New relic
             </li>
           </ul>
         </div>
@@ -112,19 +114,19 @@ const Resume = () => {
         <div class="ui header floated active item">Personal Info</div>
       </div>
       <div class="ui bottom attached active tab segment">
-        <a href="https://www.linkedin.com/in/suryadeepak/" target="_blank">
+        <a href="https://www.linkedin.com/in/suryadeepak/" target="_blank" rel='noreferrer'>
           <i className="linkedin icon large"></i>
         </a>
         <a
           href="https://github.com/FiringBazooka?tab=repositories"
-          target="_blank"
+          target="_blank" rel='noreferrer'
         >
           <i className="github icon large"></i>
         </a>
-        <a href="mailto:bpls.deepak@gmail.com" target="_blank">
+        <a href="mailto:bpls.deepak@gmail.com" target="_blank" rel='noreferrer'>
           <i className="mail icon large"></i>
         </a>
-        <a href="https://www.hackerrank.com/FiringBazooka" target="_blank">
+        <a href="https://www.hackerrank.com/FiringBazooka" target="_blank" rel='noreferrer'>
           <i className="hack icon large">H</i>
         </a>
       </div>
